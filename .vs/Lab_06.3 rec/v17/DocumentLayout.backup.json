@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_06.3 rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A251D01-9A65-4033-BB21-9CA0510ED255}|Lab_06.3 rec.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_06.3 rec\\Lab_06.3 rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A251D01-9A65-4033-BB21-9CA0510ED255}|Lab_06.3 rec.vcxproj|solutionrelative:Lab_06.3 rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C638B3-FCB0-48D8-913C-D627FB43C27A}|..\\UnitTest6.3\\UnitTest6.3.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\UnitTest6.3\\UnitTest6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest6.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\UnitTest6.3\\UnitTest6.3.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest6.3\\UnitTest6.3.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\UnitTest6.3\\UnitTest6.3.cpp",
+              "RelativeToolTip": "..\\UnitTest6.3\\UnitTest6.3.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:17:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_06.3 rec.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_06.3 rec\\Lab_06.3 rec.cpp",
+              "RelativeDocumentMoniker": "Lab_06.3 rec.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_06.3 rec\\Lab_06.3 rec.cpp",
+              "RelativeToolTip": "Lab_06.3 rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:08:16.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
